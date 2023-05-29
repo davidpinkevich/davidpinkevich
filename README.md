@@ -9,8 +9,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-1F1E1F?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/CSS3-1F1E1F?style=for-the-badge&logo=CSS3)
 ![sass](https://img.shields.io/badge/sass-1F1E1F?style=for-the-badge&logo=sass)
-<img style="background-color: #1F1E1F; width: 18px; padding: 5px" src="./assets/icons/mantine-icon.svg" alt=""/>
-![mantine](https://img.shields.io/badge/mantine-1F1E1F.svg?style=for-the-badge)
+![mantine](https://img.shields.io/badge/mantine-1F1E1F?style=for-the-badge)
 ![git](https://img.shields.io/badge/git-1F1E1F?style=for-the-badge&logo=git)
 ![webpack](https://img.shields.io/badge/webpack-1F1E1F?style=for-the-badge&logo=webpack)
 ![eslint](https://img.shields.io/badge/eslint-1F1E1F?style=for-the-badge&logo=eslint)
@@ -18,4 +17,4 @@
 ![graphql](https://img.shields.io/badge/graphql-1F1E1F?style=for-the-badge&logo=graphql)
 ![cypress](https://img.shields.io/badge/cypress-1F1E1F?style=for-the-badge&logo=cypress)
 ![jest](https://img.shields.io/badge/jest-1F1E1F?style=for-the-badge&logo=jest)
-![testinglibrary](https://img.shields.io/badge/testing&nbsp;library-1F1E1F?style=for-the-badge =testinglibrary)
+![testinglibrary](https://img.shields.io/badge/testing&nbsp;library-1F1E1F?style=for-the-badge&logo=testinglibrary)
