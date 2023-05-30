@@ -18,3 +18,10 @@
 ![cypress](https://img.shields.io/badge/cypress-1F1E1F?style=for-the-badge&logo=cypress)
 ![jest](https://img.shields.io/badge/jest-1F1E1F?style=for-the-badge&logo=jest)
 ![testinglibrary](https://img.shields.io/badge/testing&nbsp;library-1F1E1F?style=for-the-badge&logo=testinglibrary)
+
+### Please see some of my work:
+
+<img srs='./assets/icons/cart.svg'> Online Store. [Deploy](https://github.com/davidpinkevich/rock-music)
+<img srs='./assets/icons/electro.svg'> Quiz with your favorite songs. [Deploy](https://jazzy-phoenix-a495e1.netlify.app/)
+<img srs='./assets/icons/ql.svg'> Platform for graphQL. [Deploy](https://merry-figolla-133137.netlify.app/)
+<img srs='./assets/icons/planet.svg'> Planets to learn css. [Deploy](https://flourishing-tarsier-2b37b9.netlify.app/)
