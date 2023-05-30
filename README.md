@@ -1,6 +1,6 @@
 ### Hello everyone 👋
 
-My name is **David** and i'm a Junior **Front-End Developer**
+My name is **David** and i'm a **Junior Front-End Developer**
 
 ##  :floppy_disk: Languages ​​and tools:
 
@@ -34,5 +34,7 @@ My name is **David** and i'm a Junior **Front-End Developer**
 * 2023 - RS School - React 2023 Q1 
 
 ## :bar_chart: My statistics:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidpinkevich&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidpinkevich&show_icons=true&theme=gruvbox&card_width=450&border_radius=5)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidpinkevich&layout=compact&theme=gruvbox&card_width=450&border_radius=5)  
+[![codewars](https://www.codewars.com/users/davidpinkevich/badges/large)](https://www.codewars.com/users/davidpinkevich)
 
