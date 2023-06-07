@@ -31,7 +31,7 @@ My name is **David** and i'm a **Junior Front-End Developer**
 ## :mortar_board: About studies:
 * 2017 - Graduated from Brest State Technical University
 * 2022 - RS School - JavaScript/Front-end 2022 Q3 ([certificate](https://app.rs.school/certificate/kp75d1ht))
-* 2023 - RS School - React 2023 Q1 
+* 2023 - RS School - React 2023 Q1 ([certificate](https://app.rs.school/certificate/c87kwi9i))
 
 ## :bar_chart: My statistics:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidpinkevich&show_icons=true&theme=gruvbox&card_width=450&border_radius=5)  
