@@ -29,9 +29,9 @@ My name is **David** and i'm a **Junior Front-End Developer**
 - [Platform for graphQL(TypeScript + React).](https://merry-figolla-133137.netlify.app/)&nbsp;&nbsp;<img src="https://github.com/davidpinkevich/davidpinkevich/assets/112433039/ea35e52e-1fb0-4985-b339-8167d92c1ba6" style="width: 20px; height: 20px;">
 
 ## :mortar_board: About studies:
-* 2017 - Graduated from Brest State Technical University
-* 2022 - RS School - JavaScript/Front-end 2022 Q3 ([certificate](https://app.rs.school/certificate/kp75d1ht))
 * 2023 - RS School - React 2023 Q1 ([certificate](https://app.rs.school/certificate/c87kwi9i))
+* 2022 - RS School - JavaScript/Front-end 2022 Q3 ([certificate](https://app.rs.school/certificate/kp75d1ht))
+* 2017 - Graduated from Brest State Technical University
 
 ## :bar_chart: My statistics:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidpinkevich&show_icons=true&theme=gruvbox&card_width=450&border_radius=5)  
