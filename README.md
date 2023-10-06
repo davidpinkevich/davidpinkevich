@@ -1,6 +1,6 @@
-![logo](https://github.com/davidpinkevich/davidpinkevich/assets/112433039/fba4e438-912b-499f-9df9-08f57fd15d1d)### Hello everyone 👋
+### Hello everyone 👋
 
-My name is **David** and i'm a **Junior Front-End Developer**
+My name is **David** and i'm a **Front-End Developer**
 
 ##  :floppy_disk: Languages ​​and tools:
 
