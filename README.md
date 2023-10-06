@@ -1,4 +1,4 @@
-### Hello everyone 👋
+![logo](https://github.com/davidpinkevich/davidpinkevich/assets/112433039/fba4e438-912b-499f-9df9-08f57fd15d1d)### Hello everyone 👋
 
 My name is **David** and i'm a **Junior Front-End Developer**
 
@@ -22,7 +22,7 @@ My name is **David** and i'm a **Junior Front-End Developer**
 ![testinglibrary](https://img.shields.io/badge/testing&nbsp;library-585858?style=for-the-badge&logo=testinglibrary)
 
 ## :star2: You can see some of my work:
-
+- [Job search platform (TypeScript + React)](https://sensational-starlight-3927c6.netlify.app/)  <img src="https://github.com/davidpinkevich/davidpinkevich/assets/112433039/ec260826-e66f-410c-82dd-0eadf8ce649c" style="width: 20px; height: 20px; padding-top: 20px">
 - [Online store (TypeScript).](https://jazzy-phoenix-a495e1.netlify.app/)&nbsp;&nbsp;<img src="https://github.com/davidpinkevich/davidpinkevich/assets/112433039/f96559c0-4ec3-4601-a7b3-0f02b54f8f26" style="width: 20px; height: 20px; padding-top: 20px">
 - [Quiz with your favorite songs (JavaScript).](https://iridescent-sfogliatella-56a5c4.netlify.app/)&nbsp;&nbsp;<img src="https://github.com/davidpinkevich/davidpinkevich/assets/112433039/eaf629b3-86b2-454b-8e1d-3d254a7195e9" style="width: 20px; height: 20px;">
 - [Planets to learn CSS (TypeScript).](https://flourishing-tarsier-2b37b9.netlify.app/)&nbsp;&nbsp;<img src="https://github.com/davidpinkevich/davidpinkevich/assets/112433039/05acd2e4-494a-4d11-b1c1-564481010b9a" style="width: 20px; height: 20px;">
