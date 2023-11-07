@@ -7,6 +7,7 @@ My name is **David** and i'm a **Front-End Developer**
 ![JavaScript](https://img.shields.io/badge/JavaScript-585858?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-585858?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/React-585858?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-585858?style=for-the-badge&logo=next.js)
 ![redux](https://img.shields.io/badge/redux-585858?style=for-the-badge&logo=redux)
 ![HTML5](https://img.shields.io/badge/HTML5-585858?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/CSS3-585858?style=for-the-badge&logo=CSS3)
