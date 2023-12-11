@@ -34,7 +34,7 @@ My name is **David** and i'm a **Front-End Developer**
 * 2022 - RS School - JavaScript/Front-end 2022 Q3 ([certificate](https://app.rs.school/certificate/kp75d1ht))
 * 2017 - Graduated from Brest State Technical University
 
-## :bar_chart: My statistics:
+## My statistics:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidpinkevich&show_icons=true&theme=gruvbox&card_width=450&border_radius=5)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidpinkevich&layout=compact&theme=gruvbox&card_width=450&border_radius=5)  
 [![codewars](https://www.codewars.com/users/davidpinkevich/badges/large)](https://www.codewars.com/users/davidpinkevich)
