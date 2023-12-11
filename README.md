@@ -2,7 +2,7 @@
 
 My name is **David** and i'm a **Front-End Developer**
 
-##  :floppy_disk: Languages ​​and tools:
+## Languages ​​and tools:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-585858?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-585858?style=for-the-badge&logo=typescript)
@@ -22,14 +22,14 @@ My name is **David** and i'm a **Front-End Developer**
 ![jest](https://img.shields.io/badge/jest-585858?style=for-the-badge&logo=jest)
 ![testinglibrary](https://img.shields.io/badge/testing&nbsp;library-585858?style=for-the-badge&logo=testinglibrary)
 
-## :star2: You can see some of my work:
+## You can see some of my work:
 
 - [Online store (TypeScript).](https://jazzy-phoenix-a495e1.netlify.app/)&nbsp;&nbsp;<img src="https://github.com/davidpinkevich/davidpinkevich/assets/112433039/f96559c0-4ec3-4601-a7b3-0f02b54f8f26" style="width: 20px; height: 20px; padding-top: 20px">
 - [Quiz with your favorite songs (JavaScript).](https://iridescent-sfogliatella-56a5c4.netlify.app/)&nbsp;&nbsp;<img src="https://github.com/davidpinkevich/davidpinkevich/assets/112433039/eaf629b3-86b2-454b-8e1d-3d254a7195e9" style="width: 20px; height: 20px;">
 - [Planets to learn CSS (TypeScript).](https://flourishing-tarsier-2b37b9.netlify.app/)&nbsp;&nbsp;<img src="https://github.com/davidpinkevich/davidpinkevich/assets/112433039/05acd2e4-494a-4d11-b1c1-564481010b9a" style="width: 20px; height: 20px;">
 - [Platform for graphQL(TypeScript + React).](https://merry-figolla-133137.netlify.app/)&nbsp;&nbsp;<img src="https://github.com/davidpinkevich/davidpinkevich/assets/112433039/ea35e52e-1fb0-4985-b339-8167d92c1ba6" style="width: 20px; height: 20px;">
 
-## :mortar_board: About studies:
+## About studies:
 * 2023 - RS School - React 2023 Q1 ([certificate](https://app.rs.school/certificate/c87kwi9i))
 * 2022 - RS School - JavaScript/Front-end 2022 Q3 ([certificate](https://app.rs.school/certificate/kp75d1ht))
 * 2017 - Graduated from Brest State Technical University
