@@ -1,6 +1,6 @@
 ### Hello everyone 👋
 
-My name is **David** and I'm a **Front-End Developer**
+My name is **David** and I'm a **Frontend Developer**
 
 ## Languages ​​and tools:
 
